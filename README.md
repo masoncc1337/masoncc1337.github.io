@@ -2,4 +2,4 @@
 Mason CC redirect
 
 
-This site built exclusively to redirect masoncc.gmu.io
+This site built exclusively to redirect masoncc.gmu.edu
